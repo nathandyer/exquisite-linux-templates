@@ -20,8 +20,6 @@ For example, if I have a Python file template, I might name it `Python File.py`
 
 Any content saved within the template file will be recreated when generating a new file.
 
-`# Author: John Smith <johnsmith@example.com>`
-
 ## Contributing to the project
 Please feel free to contribute files which you find especially useful and elegant. If we feel that the
 quality is up to par with the rest of the repository, and could potentially be useful to multiple users
